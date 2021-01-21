@@ -2,7 +2,7 @@
 
 `Prediction, Estimation, and Attribution.pdf`：论文原文
 
-`slide_2019Predict-Estimat-Attribut.pdf`：presentation slides
+`slide_2019Predict-Estimat-Attribut.pdf`：Presentation slides
 
 `Efron2020.pdf`：Prediction, Estimation, and Attribution的文献总结
 
